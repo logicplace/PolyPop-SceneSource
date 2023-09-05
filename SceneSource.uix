@@ -1,0 +1,6 @@
+<uix type="Source">
+  <add_menu_group>Subscenes</add_menu_group>
+  <category>Subscenes</category>
+  <name>Scene Source</name>
+  <cast_types>DisplayTexture</cast_types>
+</uix>
